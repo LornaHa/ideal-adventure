@@ -1,6 +1,8 @@
 # Ruby Program
 
-Took a set of instructions (which I have been written into user stories below) and created this program to display the given data
+Took a set of instructions (which I have been written into user stories below) and created this program to display the given data.
+
+Program was created orginally in another format - this has been copied over
 
 
 ## User Stories
